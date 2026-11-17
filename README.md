@@ -17,7 +17,7 @@
 
 Software engineer & security researcher focusing on **local-first cybersecurity tooling**, **Linux systems**, and **privacy-preserving architectures**. 
 
-* 🔭 **Current Work:** Core developer of [AEGIS AI](https://github.com/dyrnoi404/aegis-ai) — a private, local-first cybersecurity intelligence workstation.
+* 🔭 **Current Work:** Core developer of [AEGIS AI](https://github.com/dyrnoi404/aegis-ai) - a private, local-first cybersecurity intelligence workstation.
 * 🧠 **Interests:** Systems internals, defensive security tooling, network telemetry analysis, and autonomous AI agents.
 * ⚙️ **Philosophy:** Minimalist workflows, privacy by design, and reliable command-line tooling.
 
