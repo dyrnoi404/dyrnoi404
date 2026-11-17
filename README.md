@@ -1,98 +1,91 @@
 <div align="center">
 
-<img src="https://media1.tenor.com/m/Gwdvm6E7clIAAAAC/%D1%82%D0%BE%D1%81-1-%D1%81%D0%BE%D0%BB%D0%BD%D1%86%D0%B5%D0%BF%D1%91%D0%BA.gif" alt="header" width="100%" />
-
-<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=24&duration=2800&pause=900&color=E8B464&center=true&vCenter=true&width=650&lines=root%40dyrnoi404%3A~%23+whoami;19+y.o.+%D0%B8%D0%B7+%D0%A0%D0%A4%2C+%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%81%D1%82;%D0%B8%D0%B7%D1%83%D1%87%D0%B0%D1%8E+%D1%85%D0%B0%D0%BA%D0%B8%D0%BD%D0%B3+%D0%B8+pentest;nmap+-sV+target+%26%26+get+shell+%3A)" alt="typing-svg" />
-
-<br>
-
-![Profile Views](https://komarev.com/ghpvc/?username=dyrnoi404&style=for-the-badge&color=E8B464&label=PROFILE+VIEWS)
-![Location](https://img.shields.io/badge/RU-121212?style=for-the-badge&logo=googlemaps&logoColor=E8B464&label=Location)
-![Status](https://img.shields.io/badge/status-hacking_the_planet-121212?style=for-the-badge&logoColor=E8B464)
-
-</div>
-
-<br>
-
-## `> cat about.md`
-
-```yaml
-name: dyrnoi404
-location: Russia
-role: self-taught developer
-interest: pentest / этичный хакинг / Kali Linux
-mindset: "если что-то можно сломать — я как минимум спрошу почему"
-currently_learning: сети, Linux internals, основы pentest
-```
-
-<br>
-
-## `> ls -la ./arsenal`
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=linux,bash,python,js,git,github,vscode,html,css&theme=dark" />
+<img src="https://raw.githubusercontent.com/dyrnoi404/dyrnoi404/main/assets/banner.svg" alt="dyrnoi404 header" width="100%" />
 
 <br><br>
 
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-121212?style=for-the-badge&logo=kalilinux&logoColor=E8B464)
-![Nmap](https://img.shields.io/badge/Nmap-121212?style=for-the-badge&logo=nmap&logoColor=E8B464)
-![Wireshark](https://img.shields.io/badge/Wireshark-121212?style=for-the-badge&logo=wireshark&logoColor=E8B464)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-121212?style=for-the-badge&logo=burpsuite&logoColor=E8B464)
-![Linux](https://img.shields.io/badge/Linux-121212?style=for-the-badge&logo=linux&logoColor=E8B464)
-![Bash](https://img.shields.io/badge/Bash-121212?style=for-the-badge&logo=gnubash&logoColor=E8B464)
-![Python](https://img.shields.io/badge/Python-121212?style=for-the-badge&logo=python&logoColor=E8B464)
-![Git](https://img.shields.io/badge/Git-121212?style=for-the-badge&logo=git&logoColor=E8B464)
+[![Telegram](https://img.shields.io/badge/Telegram-@not__mudota-2BA2E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/not_mudota)
+[![Project](https://img.shields.io/badge/Building-AEGIS_AI-58A6FF?style=flat-square&logo=shield&logoColor=white)](https://github.com/dyrnoi404/aegis-ai)
+[![Environment](https://img.shields.io/badge/Environment-Linux_|_CLI-161B22?style=flat-square&logo=linux&logoColor=58A6FF)](https://github.com/dyrnoi404)
+[![Language](https://img.shields.io/badge/Primary-Python_|_Bash-3776AB?style=flat-square&logo=python&logoColor=white)](https://github.com/dyrnoi404)
 
 </div>
 
 <br>
 
-## `> git log --stats --all`
+### ⚡ About Me
+
+Software engineer & security researcher focusing on **local-first cybersecurity tooling**, **Linux systems**, and **privacy-preserving architectures**. 
+
+* 🔭 **Current Work:** Core developer of [AEGIS AI](https://github.com/dyrnoi404/aegis-ai) — a private, local-first cybersecurity intelligence workstation.
+* 🧠 **Interests:** Systems internals, defensive security tooling, network telemetry analysis, and autonomous AI agents.
+* ⚙️ **Philosophy:** Minimalist workflows, privacy by design, and reliable command-line tooling.
+
+---
+
+### 🛡️ Featured Project
+
+<table>
+  <tr>
+    <td>
+      <h3><a href="https://github.com/dyrnoi404/aegis-ai">🛡️ AEGIS AI</a></h3>
+      <p><b>Private, local-first cybersecurity intelligence workstation & assistant.</b></p>
+      <p>A self-contained workstation designed for security teams and researchers to inspect telemetry, triage logs, and run local AI-assisted security analysis without exfiltrating sensitive data to third-party APIs.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3.11-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+        <img src="https://img.shields.io/badge/Docker-Ready-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+        <img src="https://img.shields.io/badge/Architecture-Local--First-3FB950?style=flat-square" alt="Local First" />
+        <img src="https://img.shields.io/badge/License-MIT-blue?style=flat-square" alt="MIT" />
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🛠️ Tech Stack & Tooling
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=dyrnoi404&show_icons=true&theme=gruvbox&hide_border=true&bg_color=121212&title_color=E8B464&icon_color=E8B464&text_color=9AA1B0&ring_color=E8B464" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dyrnoi404&layout=compact&theme=gruvbox&hide_border=true&bg_color=121212&title_color=E8B464&text_color=9AA1B0" width="38%" />
+| Domain | Stack |
+| :--- | :--- |
+| **Languages** | Python, Bash / Shell, C, JavaScript, SQL |
+| **Security & Research** | Linux Internals, Network Packet Analysis, Nmap, Wireshark, Burp Suite |
+| **Infrastructure & Ops** | Docker, Git / GitHub, Kali Linux, Debian, REST APIs |
 
 <br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=dyrnoi404&theme=gruvbox&hide_border=true&background=121212&stroke=E8B464&ring=E8B464&fire=E8B464&currStreakLabel=E8B464" width="65%" />
-
-<br><br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=dyrnoi404&theme=react-dark&bg_color=121212&color=E8B464&line=E8B464&point=F2C584&area=true&hide_border=true" width="90%" />
+<img src="https://skillicons.dev/icons?i=linux,bash,python,c,docker,git,github,vscode&theme=dark" alt="Tooling Icons" />
 
 </div>
 
-<br>
+---
 
-## `> ./show_trophies.sh`
+### 📈 Contribution Stream
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=dyrnoi404&theme=gruvbox&no-frame=true&no-bg=false&row=1&column=7&margin-w=8" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dyrnoi404/dyrnoi404/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dyrnoi404/dyrnoi404/output/github-contribution-grid-snake.svg">
+  <img alt="Contribution Snake Animation" src="https://raw.githubusercontent.com/dyrnoi404/dyrnoi404/output/github-contribution-grid-snake-dark.svg" width="100%" />
+</picture>
 
+</div>
+
+---
+
+### 📊 GitHub Activity
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dyrnoi404&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" height="155" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dyrnoi404&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" height="155" alt="Top Languages" />
 </div>
 
 <br>
 
-## `> ping contact`
+---
 
 <div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-121212?style=for-the-badge&logo=github&logoColor=E8B464)](https://github.com/dyrnoi404)
-[![Telegram](https://img.shields.io/badge/Telegram-121212?style=for-the-badge&logo=telegram&logoColor=E8B464)](https://t.me/not_mudota)
-
+  <sub>Open to collaboration on security tooling & local AI · <a href="https://t.me/not_mudota">Ping me on Telegram</a></sub>
 </div>
-
-<br>
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/dyrnoi404/dyrnoi404/output/github-contribution-grid-snake.svg" width="100%" alt="snake contribution graph" />
-
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:E8B464,100:12151C&height=120&section=footer" width="100%" />
